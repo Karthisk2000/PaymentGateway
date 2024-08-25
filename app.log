@@ -1,0 +1,24 @@
+2024-08-22 05:55:07,589 - INFO -  * Detected change in '/home/stalbansprinting/htdocs/www.stalbansprinting.com/python/flask_app/payment_gateway.py', reloading
+2024-08-22 05:55:07,694 - INFO -  * Restarting with stat
+2024-08-22 05:55:08,093 - WARNING -  * Debugger is active!
+2024-08-22 05:55:08,093 - INFO -  * Debugger PIN: 114-242-461
+2024-08-22 05:55:08,470 - INFO -  * Detected change in '/home/stalbansprinting/htdocs/www.stalbansprinting.com/python/flask_app/payment_gateway.py', reloading
+2024-08-22 05:55:08,648 - INFO -  * Restarting with stat
+2024-08-22 05:55:09,008 - WARNING -  * Debugger is active!
+2024-08-22 05:55:09,008 - INFO -  * Debugger PIN: 698-117-184
+2024-08-22 05:55:08,770 - INFO -  * Detected change in '/home/stalbansprinting/htdocs/www.stalbansprinting.com/python/flask_app/payment_gateway.py', reloading
+2024-08-22 05:55:12,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://10.142.0.7:5007
+2024-08-22 05:55:12,387 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-22 05:55:12,388 - INFO -  * Restarting with stat
+2024-08-22 05:55:12,578 - INFO -  * Restarting with stat
+2024-08-22 05:55:12,914 - WARNING -  * Debugger is active!
+2024-08-22 05:55:12,915 - INFO -  * Debugger PIN: 114-242-461
+2024-08-22 05:55:13,102 - WARNING -  * Debugger is active!
+2024-08-22 05:55:13,102 - INFO -  * Debugger PIN: 489-800-351
+2024-08-22 05:55:17,718 - INFO - 127.0.0.1 - - [22/Aug/2024 05:55:17] "GET /api/v1/payment_gateway_webpage HTTP/1.1" 200 -
+2024-08-22 05:55:21,420 - INFO - 127.0.0.1 - - [22/Aug/2024 05:55:21] "GET /api/v1/payment_gateway_webpage HTTP/1.1" 200 -
+2024-08-22 05:57:11,463 - INFO - 127.0.0.1 - - [22/Aug/2024 05:57:11] "[31m[1mGET /api/v1/payment_gateway?card_number=4311360009275110&expiry_date=0828&cvv=417&amount=1 HTTP/1.1[0m" 400 -
+2024-08-22 05:57:15,671 - INFO - 127.0.0.1 - - [22/Aug/2024 05:57:15] "[31m[1mGET /api/v1/payment_gateway?card_number=4311360009275110&expiry_date=0828&cvv=417&amount=1 HTTP/1.1[0m" 400 -
